@@ -1,0 +1,3 @@
+include ':AnggieLibrary'
+include ':app'
+rootProject.name = "AnggieLib"
